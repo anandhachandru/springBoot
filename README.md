@@ -1,1 +1,1 @@
-# springBoot Base Application
+# Spring Boot Base Application
