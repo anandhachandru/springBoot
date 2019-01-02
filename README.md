@@ -1,6 +1,6 @@
 # Spring Boot Base Application
 
-A Spring Boot web application example, using embedded Tomcat and package as an executable JAR file.
+A Spring Boot service application example, using embedded Tomcat and package as an executable JAR file.
 
 Technologies used :
 
